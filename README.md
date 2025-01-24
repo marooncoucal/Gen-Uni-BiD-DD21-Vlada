@@ -4,13 +4,21 @@
 
 First, make sure computer has [Node.js](https://nodejs.org/en) installed
 
+![Node-js-search]( )
+
+Open folder `Gen-Uni-BiD-DD21-Vlada`
+
+![folder-overview]( )
+
 Install `driver_ch340_341_arduino.exe` from folder `arduino`
+
+![arduino-driver]( )
 
 Open http://localhost:5001 with your browser 
 
 Move to folder `server-src` and open command line by typing `cmd` in adress bar of windows explorer
 
-![adress bar]( )
+![cmd]( )
 
 Use next command to install packages
 
